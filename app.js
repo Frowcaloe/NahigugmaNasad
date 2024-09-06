@@ -48,7 +48,7 @@ let trackList = [
         path: "./music/little paradise.mp3",
     },
     {
-        name: "Day & Night",
+        name: "Dy & Night",
         artist: "Jung Seung Hwan",
         path: "./music/day and night.mp3",
     },
