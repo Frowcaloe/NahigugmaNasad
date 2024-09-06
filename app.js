@@ -43,24 +43,24 @@ let soundBarsLottie = bodymovin.loadAnimation({
 
 let trackList = [
     {
+        name: "Bittersweet",
+        artist: "Rees and Lois",
+        path: "./music/bittersweet.mp3",
+    },
+    {
         name: "Little Paradise",
         artist: "Tj Monterde",
         path: "./music/little paradise.mp3",
     },
     {
-        name: "Dy & Night",
-        artist: "Jung Seung Hwan",
-        path: "./music/day and night.mp3",
+        name: "Dilaw",
+        artist: "Maki",
+        path: "./music/dilaw.mp3",
     },
     {
-        name: "Love of my Life",
-        artist: "Reyne",
-        path: "./music/love of my life.mp3",
-    },
-    {
-        name: "The Only One",
-        artist: "Reyne",
-        path: "./music/the only one.mp3",
+        name: "Puhon",
+        artist: "Tj Monterde",
+        path: "./music/puhon.mp3",
     },
 ];
 
