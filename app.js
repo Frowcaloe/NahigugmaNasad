@@ -43,9 +43,9 @@ let soundBarsLottie = bodymovin.loadAnimation({
 
 let trackList = [
     {
-        name: "Only",
-        artist: "Lee Hi",
-        path: "./music/only.mp3",
+        name: "Little Paradise",
+        artist: "Tj Monterde",
+        path: "./music/little paradise.mp3",
     },
     {
         name: "Day & Night",
