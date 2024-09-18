@@ -62,6 +62,21 @@ let trackList = [
         artist: "Tj Monterde",
         path: "./music/puhon.mp3",
     },
+    {
+        name: "We Could Happen",
+        artist: "AJ Rafael",
+        path: "./music/We Could Happen.mp3",
+    },
+    {
+        name: "One Thing",
+        artist: "One Direction",
+        path: "./music/One Thing.mp3",
+    },
+    {
+        name: "Namumula",
+        artist: "Maki",
+        path: "./music/Namumula.mp3",
+    },
 ];
 
 // EVENT LISTENERS
