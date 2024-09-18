@@ -95,7 +95,7 @@
     font-family: 'Comic Neue';
     color: var(--txt-color);
     text-align: left;
-    font-size: 6px;
+    font-size: 1px;
   }
   .heart {
     position: absolute;
