@@ -40,7 +40,7 @@
   }
   
   .container {
-    height: 100%;
+    height: 300%;
     width: 100%;
     top: 1.5rem;
     display: grid;
@@ -53,8 +53,8 @@
   }
   .envelope-wrapper > .envelope {
     position: relative;
-    width: 250px;
-    height: 250px;
+    width: 500px;
+    height: 500px;
   }
   .envelope-wrapper > .envelope::before {
     content: "";
@@ -95,7 +95,7 @@
     font-family: 'Comic Neue';
     color: var(--txt-color);
     text-align: left;
-    font-size: 8px;
+    font-size: 6px;
   }
   .heart {
     position: absolute;
